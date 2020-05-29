@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362687784229",
+    "firebase_url": "https://mittby-e0a8f.firebaseio.com",
+    "project_id": "mittby-e0a8f",
+    "storage_bucket": "mittby-e0a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362687784229:android:5f2357a93039a21f1526cc",
+        "android_client_info": {
+          "package_name": "com.mittby.mittbyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362687784229-pmv7e5rkau7vgmgpa6mkhvp30anqarb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vHWpEaY8-QoQtu8ERLTHSAWRMf6jJlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362687784229-pmv7e5rkau7vgmgpa6mkhvp30anqarb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
